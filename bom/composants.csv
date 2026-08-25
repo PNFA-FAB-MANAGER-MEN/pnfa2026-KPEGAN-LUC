@@ -1,0 +1,5 @@
+sous_ensemble;reference;designation;boitier_ou_format;quantite;procede_ou_source;fournisseur;prix_unitaire_fcfa;prix_total_fcfa;etat
+pcb;R1-R4;Resistance 220 ohms 1206;CMS 1206;4;achat;magasin PNFA;25;100;monte
+structure;FLANC-G;Flanc gauche CP 3 mm;600x400;1;laser;chute magasin;0;0;fabrique
+firmware;-;Bibliotheque OneWire v2.3.8;-;1;telechargement;Arduino;0;0;installe
+TOTAL;-;Cout matiere total;-;-;-;-;-;0;-

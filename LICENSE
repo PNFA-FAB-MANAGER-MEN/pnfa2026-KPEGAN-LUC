@@ -1,0 +1,15 @@
+LICENCE DU LOGICIEL — à compléter
+
+Fichier à remplacer par le texte intégral de la licence retenue.
+
+Périmètre : firmware/ et software/ (code source)
+Choix possibles : MIT ou GPL-3.0
+Identifiant SPDX à renseigner : MIT | GPL-3.0-or-later
+
+Le texte officiel de la licence se récupère auprès du formateur ou du pôle
+conseil du programme (module UC2-M12 — Licences et propriété intellectuelle).
+Le choix de la licence est motivé en une phrase dans le README (exigence ED-16).
+
+Ne pas laisser ce fichier en l'état au gel du dépôt : une licence absente ou
+non renseignée rend le projet juridiquement fermé, ce qui contredit la culture
+du réseau et l'exigence ED-16.

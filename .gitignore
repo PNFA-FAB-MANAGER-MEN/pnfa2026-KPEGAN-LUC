@@ -1,0 +1,23 @@
+# Fichiers temporaires des systemes d'exploitation
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sauvegardes des logiciels de CAO et d'electronique
+*.f3d.bak
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+fp-info-cache
+
+# Compilation
+build/
+*.hex
+*.elf
+__pycache__/
+
+# Ne jamais versionner
+*.zip
+*.rar
+secrets.h
+credentials.*
