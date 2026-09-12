@@ -2,11 +2,16 @@
 
 > Accroche en une phrase : ce que le dispositif fait apprendre, à qui.
 
-![Photo du dispositif terminé](docs/medias/photo-finale.jpg)
 ![vidéo](../medias/Download(2).mp4)
 **Vidéo de démonstration (1 à 2 min)** : [lien à insérer]
 
 ## L'équipe
+
+https://github.com/user-attachments/assets/d767620c-f1cc-46f1-acbe-0df5c84ecb23
+
+
+
+
 
 | Membre | Discipline | Compte GitHub | Rôles tenus (S1→S4) |
 |---|---|---|---|
