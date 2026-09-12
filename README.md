@@ -2,7 +2,6 @@
 
 > Accroche en une phrase : ce que le dispositif fait apprendre, à qui.
 
-![vidéo](../medias/Download(2).mp4)
 **Vidéo de démonstration (1 à 2 min)** : [lien à insérer]
 
 ## L'équipe
