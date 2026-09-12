@@ -4,7 +4,6 @@
 
 ## L'équipe
 
-https://github.com/user-attachments/assets/d767620c-f1cc-46f1-acbe-0df5c84ecb23
 
 
 
